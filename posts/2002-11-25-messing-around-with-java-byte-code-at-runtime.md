@@ -1,5 +1,4 @@
 ---
-date: '2002-11-25 16:38:58'
 layout: layouts/post.njk
 slug: messing-around-with-java-byte-code-at-runtime
 status: publish
