@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title:  Hill-Shading the Mandelbrot Set
 categories: Programming
 image: /img/mandelbrot_-0.19853719075520848_1.1001770019531256_0.00390625_100000.png
-image-text: $$\text{width } 0.00391 \text{ centered at } -0.19854+i1.10018$$
+imageText: $$\text{width } 0.00391 \text{ centered at } -0.19854+i1.10018$$
 ---
 
 <script

@@ -3,7 +3,7 @@ layout: layouts/post.njk
 ref: http://www.flickr.com/photos/eob/7158700197
 categories: Science
 image: http://farm9.staticflickr.com/8015/7158700197_9eacdc20a3_b_d.jpg
-image-text: Projection of Sun showing transit of Venus
+imageText: Projection of Sun showing transit of Venus
 ---
 
 [Transit of Venus][1]

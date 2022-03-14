@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: Welcome to Neumorphism
 categories: Product
 image: /img/reskin-small.png
-image-text: Old vs. new design for this blog
+imageText: Old vs. new design for this blog
 ---
 
 I just updated the visual design of this site to be a little more interesting than the default theme I had been using since I ported the site to Jekyll. I decided to tweak the CSS to get a [neumorphic][1] effect, which is similar to Material Design except instead of things floating above the surface they are indented into or stick above the surface.

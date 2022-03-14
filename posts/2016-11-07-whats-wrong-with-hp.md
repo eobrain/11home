@@ -4,7 +4,7 @@ title: What’s Wrong With HP?
 date: 2016-11-07
 category: HP
 image: /img/1_9JTWGej6L6qab8STaaK16g.webp
-image-text: fissioning HP logo
+imageText: fissioning HP logo
 ---
 
 What is wrong with HP that would spur its announced fission into two daughter

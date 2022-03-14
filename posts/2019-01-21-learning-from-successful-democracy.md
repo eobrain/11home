@@ -4,7 +4,7 @@ title:  "Learning from Successful Democracy"
 date:   2019-01-21
 categories: Society
 image: /img/first-dail-in-session.jpg
-image-text: First Dáil, January 21, 1919
+imageText: First Dáil, January 21, 1919
 ---
 
 Today marks exactly one hundred years of Irish democracy.

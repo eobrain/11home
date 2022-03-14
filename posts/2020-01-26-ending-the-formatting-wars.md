@@ -4,7 +4,7 @@ title: Here's the thing that has ended the code-formatting wars.
 date:   2020-01-25
 categories: Programming
 image: /img/standard-js-sticker.svg
-image-text: standard JS logo
+imageText: standard JS logo
 image-link: https://standardjs.com/
 ---
 

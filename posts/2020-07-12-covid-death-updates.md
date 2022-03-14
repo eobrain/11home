@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title:  Covid Death Update
 categories: Covid
 image: /img/2020-07-10-rankstate.png
-image-text: States with highest per-capita Covid death rathes
+imageText: States with highest per-capita Covid death rathes
 img-link: /covidgrowth/rankstate/
 ---
 

@@ -4,7 +4,7 @@ title: Trimming the Empty Parts From The World Map
 date: 2016-01-25
 category: Science
 image: /img/trimmed-world.png
-image-text: Map of the world show areas of with more than 5 people/km²
+imageText: Map of the world show areas of with more than 5 people/km²
 ---
 
 The political map of the world is a familiar image, and we have

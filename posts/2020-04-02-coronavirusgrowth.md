@@ -4,7 +4,7 @@ title:  Coronavirus Growth Rate
 date:   2020-04-02
 categories: Science
 image: /img/covidgrowth.png
-image-text: Graph of COVID-19 Growth
+imageText: Graph of COVID-19 Growth
 image-link: /covidgrowth
 ---
 

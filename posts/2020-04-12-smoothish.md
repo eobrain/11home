@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title:  Smoothish library for smoothing time series data
 categories: Programming
 image: /img/smoothish-example.png
-image-text: Smoothish
+imageText: Smoothish
 image-link: https://www.npmjs.com/package/smoothish
 ---
 

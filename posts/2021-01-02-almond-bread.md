@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title:  Finding Mandelbrot images to use as video conference background
 categories: Programming
 image: /img/mandelbrot_-0.19853719075520848_1.1001770019531256_0.00390625_10000.png
-image-text: $$\text{width } 0.00391 \text{ centered at } -0.19854+i1.10018$$
+imageText: $$\text{width } 0.00391 \text{ centered at } -0.19854+i1.10018$$
 ---
 <script
   src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML"

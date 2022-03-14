@@ -6,7 +6,7 @@ title: HP Labs seeking an agile Java contract web programmer to Do Amazing
 wordpress_id: '1117'
 categories: Programming
 image: /img/HPLabs560.gif
-image-text: HP Labs Logo (in 2011)
+imageText: HP Labs Logo (in 2011)
 ---
 
 If the following description sounds like you then we should talk.

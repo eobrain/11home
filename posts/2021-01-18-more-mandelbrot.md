@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title:  More Mandelbrot Images and Videos
 categories: Programming
 image: /img/video_0.4177429339294358_0.21028284578128817_2.2737367544323206e-13_100000.gif
-image-text: 0.4177429339294358+i0.2102828457812882 2.27e-13 wide
+imageText: 0.4177429339294358+i0.2102828457812882 2.27e-13 wide
 ---
 
 Generating more Mandelbrot set details and videos zooming down to then.

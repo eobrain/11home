@@ -7,7 +7,7 @@ title: Citizens keep an eye on government.
 wordpress_id: '109'
 categories: Society
 image: http://static.flickr.com/32/47609285_e5a4e4a8e9_m.jpg
-image-text: Reichstag
+imageText: Reichstag
 ---
 
 

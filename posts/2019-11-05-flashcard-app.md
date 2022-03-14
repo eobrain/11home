@@ -4,7 +4,7 @@ title: Spaced Repetition Algorithm for a Flashcard App
 date:   2019-11-05
 categories: Programming
 image: /img/step3.webp
-image-text: Flash Card
+imageText: Flash Card
 image-link: https://www.kartoj.com/
 ---
 

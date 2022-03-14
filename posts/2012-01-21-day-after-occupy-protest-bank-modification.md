@@ -7,7 +7,7 @@ title: 'Day after Occupy protest: Bank Modification'
 wordpress_id: '3184'
 categories: Society
 image: http://farm8.staticflickr.com/7145/6740579771_2acd3116d1_d.jpg
-image-text: Bank of America building on Montgomery St, San Francisco
+imageText: Bank of America building on Montgomery St, San Francisco
 ---
 
 

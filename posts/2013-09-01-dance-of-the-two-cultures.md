@@ -4,7 +4,7 @@ title: The Dance of the Two Cultures
 date: 2013-09-01
 category: Society
 image: /img/heaney.webp
-image-text: Seamus Heaney Obituary in the New York Times
+imageText: Seamus Heaney Obituary in the New York Times
 ---
 
 Today the New York Times marked the death of Seamus
