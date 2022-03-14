@@ -7,6 +7,12 @@
       {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
       <a href="{{ tagUrl | url }}" class="post-tag">{{ tag }}</a>
     {% endfor %}
+    {%- if post.data.image -%}
+      <figure>
+        <img alt="{{post.data.imageText}}"
+             src="{{post.data.image | url}}">
+      </figure>
+    {%- endif -%}
   </li>
 {% endfor %}
 </ol>
