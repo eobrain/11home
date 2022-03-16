@@ -1,0 +1,14 @@
+[build]
+exec="eleventy"
+
+[bench]
+exec="sh -c 'DEBUG=Eleventy:Benchmark* npx eleventy'"
+
+[watch]
+exec="eleventy --$@"
+
+[serve]
+exec="eleventy --$@"
+
+[debug]
+exec="sh -c 'DEBUG=* npx eleventy'"
