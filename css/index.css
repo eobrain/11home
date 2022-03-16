@@ -131,6 +131,16 @@ code {
   counter-increment: start-from -1;
   line-height: 1.8;
 }
+.postlist-item a.postlist-link {
+  flex-grow: 2;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+  max-width: 80%;
+}
+.postlist-item figure {
+  flex-basis: 100%;
+}
 .postlist-item:before {
   display: inline-block;
   pointer-events: none;
