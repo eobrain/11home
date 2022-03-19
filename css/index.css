@@ -27,8 +27,18 @@ p:last-child {
 p,
 .tmpl-post li,
 img {
-  max-width: 37.5em; /* 600px /16 */
+  max-width: 100%;
 }
+
+.postlist-item img {
+  width: 70vw;
+}
+
+.postlist-item img, img.hero {
+  box-shadow: 5px 5px 15px 5px #000000;
+  margin: 1em 0;
+}
+
 p,
 .tmpl-post li {
   line-height: 1.45;
@@ -130,6 +140,7 @@ code {
   align-items: baseline;
   counter-increment: start-from -1;
   line-height: 1.8;
+  margin: 5vmax 0;
 }
 .postlist-item a.postlist-link {
   flex-grow: 2;

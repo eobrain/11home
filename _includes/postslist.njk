@@ -9,8 +9,10 @@
     {% endfor %}
     {%- if post.data.image -%}
       <figure>
-        <img alt="{{post.data.imageText}}"
-             src="{{post.data.image | url}}">
+        <a href="{{ post.url | url }}">
+          <img alt="{{post.data.imageText}}"
+               src="{{post.data.image | url}}">
+        </a>
       </figure>
     {%- endif -%}
   </li>
